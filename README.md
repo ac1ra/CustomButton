@@ -1,6 +1,8 @@
 # CustomButton
 Custom Button [swift file]
 
+![frst img](/pict/about.jpg)
+
 Сreate a button that is customizable through the Attributes inspector, and you can view the changes right in Interface Builder. This custom button supports the following customizations:
 
 - Corner radius
